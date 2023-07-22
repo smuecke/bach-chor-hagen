@@ -3,8 +3,8 @@ title: Bach-Chor Hagen
 #subtitle: Vokalensemble seit 1985
 email: cantate@bach-chor-hagen.de
 description: Herzlich Willkommen auf unserer Homepage
-baseurl: "/bach-chor-hagen" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog
+domain: smuecke.github.io
 author: Sascha Mücke
 street_address:
 city:
