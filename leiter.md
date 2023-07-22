@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Der Chorleiter
-description: Der Chorleiter des Bach-Chors Hagen
+description: Prof. Christopher Brauckmann
 tile-image: assets/images/christopher-portrait.jpg
 nav-menu: true
 ---
