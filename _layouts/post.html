@@ -24,9 +24,10 @@
 		</header>
 		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
 		{{ content }}
+
+		<a href="javascript:history.back()" class="button small">Zurück</a>
 	</div>
 </section>
-
 </div>
 
     {% include footer.html %}
