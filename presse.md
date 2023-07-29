@@ -2,8 +2,9 @@
 layout: post
 title: Pressematerial
 description: Material zur freien Verwendung
-tile-image: assets/images/chor-von-oben.jpg
+#tile-image: assets/images/chor-von-oben.jpg
 nav-menu: true
+show_tile: false
 ---
 
 <p>Das Text- und Bildmaterial auf dieser Seite darf frei verwendet werden.</p>
