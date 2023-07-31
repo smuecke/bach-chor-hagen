@@ -5,5 +5,8 @@ description: Neuigkeiten, Ankündigungen und Infos
 nav-menu: true
 tile-image: assets/images/noten.jpg
 author: null
-#show_tile: true
 ---
+
+Hier finden Sie Neuigkeiten, Ankündigungen und sonstige Informationen rund um den Bach-Chor.
+
+***

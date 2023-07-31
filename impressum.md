@@ -17,6 +17,7 @@ Hoffnungstaler Str. 34
 
 Vertreten durch **Dr. Gerhard Pauli** (1. Vorsitzender).
 
+
 ## Registereintrag
 
 Eingetragen im Vereinsregister.
@@ -24,6 +25,12 @@ Eingetragen im Vereinsregister.
 | --- | --- |
 | Registergericht | Amtsgericht Hagen |
 | Registernummer | `1640` |
+
+
+## Bildquellen
+
+Die Bilder auf dieser Seite wurden von **Bernhard van Riel** (alle Hintergrundbilder außer *Allgemeines*) und **Sascha Mücke** (Hintergrundbild *Allgemeines*) erstellt.
+
 
 ## Verantwortlich für den Inhalt
 

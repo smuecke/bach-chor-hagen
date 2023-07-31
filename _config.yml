@@ -28,8 +28,8 @@ socials:
   Instagram:
   LinkedIn:
   Twitter:
-  Facebook:
-  Slack:
+  Facebook: https://www.facebook.com/BachChorHagen
+  Slack: https://bachchorhagen.slack.com
 
 # build settings
 markdown: kramdown

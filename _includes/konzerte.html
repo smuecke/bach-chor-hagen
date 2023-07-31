@@ -1,27 +1,24 @@
 <p><strong>Wo Sie uns demnächst hören können:</strong></p>
 <div class="table-wrapper">
     <table>
+        <!--
+        <thead>
+            <tr>
+                <th colspan="2">Wann</th>
+                <th>Wo</th>
+                <th>Was</th>
+            <tr>
+        </thead>
+        -->
         <tbody>
+            {% for event in site.data.konzerte %}
             <tr>
-                <td>29.10.2023, vormittags</td>
-                <td>St. Walburga Werl</td>
-                <td>Jan Dismas Zelenka: <i>Missa Omnium Sanctorum</i></td>
+                <td>{{ event.date }}</td>
+                <td>{{ event.time }}</td>
+                <td>{{ event.place }}</td>
+                <td>{{ event.name }}</td>
             </tr>
-            <tr>
-                <td>01.11.2023, vormittags</td>
-                <td>St. Marien, Hagen</td>
-                <td>Jan Dismas Zelenka: <i>Missa Omnium Sanctorum</i></td>
-            </tr>
-            <tr>
-                <td>22.12.2023, 19:00 Uhr</td>
-                <td>Liebfrauenkirche Hamm</td>
-                <td>Rorate-Messe</td>
-            </tr>
-            <tr>
-                <td>24.03.2024</td>
-                <td>Johanniskirche Hagen</td>
-                <td>J. S. Bach: Matthäus-Passion (BWV 244)</td>
-            </tr>
+            {% endfor %}
         </tbody>
     </table>
 </div>
