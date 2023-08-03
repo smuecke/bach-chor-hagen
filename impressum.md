@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Impressum
+permalink: /impressum/
 nav-menu: false
 show_tile: false
 ---

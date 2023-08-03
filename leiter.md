@@ -2,6 +2,7 @@
 layout: post
 title: Der Chorleiter
 description: Prof. Christopher Brauckmann
+permalink: /chorleiter/
 tile-image: assets/images/christopher-portrait.jpg
 nav-menu: true
 ---

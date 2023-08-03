@@ -2,6 +2,7 @@
 layout: post
 title: Der Chor
 description: Über den Bach-Chor Hagen
+permalink: /chor/
 tile-image: assets/images/chor-unscharf.jpg
 #image: assets/images/chor-unscharf.jpg
 nav-menu: true

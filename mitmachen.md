@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mitmachen
+permalink: /mitmachen/
 nav-menu: true
 show_tile: false
 ---
