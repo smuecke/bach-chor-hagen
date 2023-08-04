@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Home
+permalink: /
 landing-title: Bach-Chor Hagen
 bottom-title: 
 description: null
