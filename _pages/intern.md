@@ -34,7 +34,7 @@ show_tile: false
   </div>
   <div class="4u$ 12u$(small)">
     <h2 id="noten">Notenmappe</h2>
-    <p>Aktuell werden Noten für folgende Stücke benötigt:</p>
+    <p>Aktuell werden Noten für folgende Stücke bei den Proben benötigt:</p>
     <div class="box alt">
       <div class="row 50% uniform">
         {% for item in site.data.noten %}
