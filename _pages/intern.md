@@ -6,13 +6,12 @@ nav-menu: false
 show_tile: false
 ---
 
-Zuletzt aktualisiert am {{ "now" | date: '%d.%m.%Y' }}.
+<p>Zuletzt aktualisiert am {{ "now" | date: '%d.%m.%Y' }}.</p>
 
-## Terminübersicht
-
-Kommende Proben- und Konzerttermine.
-Unsichere oder vorläufige Angaben sind mit \* markiert - aktuelle Ankündigungen auf [Slack](https://bachchorhagen.slack.com) beachten!
-
+<div class="row">
+<div class="8u 12u$(small)">
+<h2 id="termine">Terminübersicht</h2>
+<p>Kommende Proben- und Konzerttermine. Unsichere oder vorläufige Angaben sind mit * markiert - aktuelle Ankündigungen auf <a href="https://bachchorhagen.slack.com">Slack</a> beachten!</p>
 <table>
 <tbody>
   {% for item in site.data.termine %}
@@ -34,9 +33,18 @@ Unsichere oder vorläufige Angaben sind mit \* markiert - aktuelle Ankündigunge
   {% endfor %}
 </tbody>
 </table>
-
-## Notenmappe
-
-Aktuell werden Noten für folgende Stücke benötigt:
-
-* [Jan Dismas Zelenka: Missa *Omnium Sanctorum*](https://www.alle-noten.de/Chor/Gemischter-Chor/Missa-Omnium-Sanctorum-nr-8.html?listtype=search&searchparam=missa%20omnium%20sanctorum)
+</div>
+<div class="4u 12u$(small)">
+<h2 id="noten">Notenmappe</h2>
+<p>Aktuell werden Noten für folgende Stücke benötigt:</p>
+<div class="box alt">
+  <div class="row 50% uniform">
+    {% for item in site.data.noten %}
+      <div class="6u"><span class="image fit">
+        <a href="{{ item.href }}"><img src="{{ item.src }}" alt="{{ item.alt }}"/></a>
+      </span><div>
+    {% endfor %}
+  </div>
+</div>
+</div>
+</div>
