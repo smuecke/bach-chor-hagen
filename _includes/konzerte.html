@@ -1,24 +1,16 @@
-<p><strong>Wo Sie uns demnächst hören können:</strong></p>
+<p><strong>Wo wir demnächst zu hören sind:</strong></p>
 <div class="table-wrapper">
     <table>
-        <!--
-        <thead>
-            <tr>
-                <th colspan="2">Wann</th>
-                <th>Wo</th>
-                <th>Was</th>
-            <tr>
-        </thead>
-        -->
         <tbody>
             {% for event in site.data.konzerte %}
             <tr>
-                <td>{{ event.date }}</td>
-                <td>{{ event.time }}</td>
+		<td>{{ event.date }}{% if event.time %}, {% endif %}{{ event.time }}</td>
                 <td>{{ event.place }}</td>
-                <td>{{ event.name }}</td>
+		<td>{% if event.url %}<a href="{{ event.url }}">{% endif %}{{ event.name }}{% if event.url %}</a>{% endif %}</td>
             </tr>
             {% endfor %}
         </tbody>
     </table>
+    <p style="font-size: smaller">(mit * markierte Angaben sind vorläufig)</p>
 </div>
+

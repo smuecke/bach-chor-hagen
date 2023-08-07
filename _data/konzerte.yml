@@ -4,7 +4,7 @@
   place: "St. Walburga Werl"
 - name: "Jan Dismas Zelenka: Missa <i>Omnium Sanctorum</i>"
   date: "01.11.2023"
-  time: "vormittags"
+  time: "10:00 Uhr*"
   place: "St. Marien Hagen"
 - name: "Rorate-Messe"
   date: "22.12.2023"
@@ -12,5 +12,5 @@
   place: "Liebfrauenkirche Hamm"
 - name: "J. S. Bach: Matthäus-Passion (BWV 244)"
   date: "24.03.2024"
-  time: "TBA"
+  time:
   place: "Johanniskirche Hagen"
