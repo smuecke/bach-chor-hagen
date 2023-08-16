@@ -39,7 +39,17 @@ show_tile: false
       <div class="row 50% uniform">
         {% for item in site.data.noten %}
           <div class="6u"><span class="image fit">
-            <a href="{{ item.href }}"><img src="{{ item.src }}" alt="{{ item.alt }}"/></a>
+            <a href="{{ item.href }}">
+	      {% if item.src %}
+	        <img src="{{ item.src }}" alt="{{ item.alt }}"/>
+	      {% else %}
+		<svg width="100%" viewBox="0 0 174.09584 227.54167" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+    <rect style="fill:#a3c1b8" width="174.09583" height="227.54166" x="0" y="0" />
+    <text xml:space="preserve" style="font-style:normal;font-weight:normal;font-size:16px;font-family:serif;text-align:center;text-anchor:middle;fill:#000000" x="86.810208" y="91.46988"><tspan style="font-size:16px;text-align:center;text-anchor:middle" x="86.810208" y="91.469886">{{ item.title }}</tspan></text>
+    <text xml:space="preserve" style="font-style:normal;font-weight:normal;font-size:9px;font-family:serif;text-align:center;text-anchor:middle;fill:#000000" x="86.810208" y="55.554012"><tspan style="font-size:9px;text-align:center;text-anchor:middle" x="86.810208" y="55.554012">{{ item.composer }}</tspan></text>
+</svg>
+	      {% endif %}
+	    </a>
           </span></div>
         {% endfor %}
       </div>
