@@ -21,8 +21,7 @@
 - date: 20.09.23
   time: "19:30"
   weekday: Mittwoch
-  notes:
-  canceled: true
+  notes: Vertretung
 - date: 27.09.23
   time: "19:30"
   weekday: Mittwoch
@@ -61,6 +60,11 @@
   time: "19:30"
   weekday: Mittwoch
   notes:
+- date: 19.11.23
+  time: "11:00*"
+  weekday: Sonntag
+  notes: "Auftritt Witten*"
+  important: true
 - date: 22.11.23
   time: "19:30"
   weekday: Mittwoch
