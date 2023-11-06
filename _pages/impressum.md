@@ -30,8 +30,9 @@ Eingetragen im Vereinsregister.
 
 ## Bildquellen
 
-Die Bilder auf dieser Seite wurden von **Bernhard van Riel** (alle Hintergrundbilder außer *Allgemeines*) und **Sascha Mücke** (Hintergrundbild *Allgemeines*) erstellt.
-
+Das Hintergrundbild der Kategorie *Allgemeines* auf der Hauptseite wurde von **Sascha Mücke** erstellt.
+Alle weiteren Hintergrundbilder der Kategorien wurden von **Bernhard van Riel** erstellt.
+Die Urheber aller weiteren Bilder sind bei Verwendung direkt gekennzeichnet.
 
 ## Disclaimer – rechtliche Hinweise
 ### § 1 Warnhinweis zu Inhalten

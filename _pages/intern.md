@@ -35,6 +35,19 @@ show_tile: false
   <div class="4u$ 12u$(small)">
     <h2 id="noten">Notenmappe</h2>
     <p>Aktuell werden Noten für folgende Stücke bei den Proben benötigt:</p>
+    <table><tbody>
+    	{% for item in site.data.noten %}
+            <tr>
+	    	<td>{{ item.composer }}</td>
+		{% if item.href %}
+		    <td><a href="{{ item.href }}">{{ item.title }}</a></td>
+		{% else %}
+		    <td>{{ item.title }}</td>
+		{% endif %}
+	    </tr>
+	{% endfor %}
+    </tbody></table>
+<!--
     <div class="box alt">
       <div class="row 50% uniform">
         {% for item in site.data.noten %}
@@ -54,6 +67,7 @@ show_tile: false
         {% endfor %}
       </div>
     </div>
+-->
   </div>
 </div>
 <hr class="major" />
