@@ -15,6 +15,7 @@
   time: "19:30"
   weekday: Mittwoch
   notes:
+  canceled: true
 - date: 29.11.23
   time: "19:30"
   weekday: Mittwoch
