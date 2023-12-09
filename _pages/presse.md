@@ -19,4 +19,18 @@ show_tile: false
 </div>
 
 <h2>Fotos</h2>
-<p>Hier werden bald Fotos verfügbar sein.</p>
+<p>Bitte bei Verwendung der Chorfotos Bernhard van Riel als Urheber angeben.</p>
+<div class="box alt">
+    <div class="row 50% uniform">
+	<div class="4u"><span class="image fit"><img src="{% link assets/images/presse/gruppe1.jpg %}" alt="" /></span></div>
+	<div class="4u"><span class="image fit"><img src="{% link assets/images/presse/gruppe1-sw.jpg %}" alt="" /></span></div>
+	<div class="4u$"><span class="image fit"><img src="{% link assets/images/presse/gruppe2.jpg %}" alt="" /></span></div>
+	<!-- Break -->
+	<div class="4u"><span class="image fit"><img src="{% link assets/images/presse/gruppe2-sw.jpg %}" alt="" /></span></div>
+	<div class="4u"><span class="image fit"><img src="{% link assets/images/presse/gruppe3.jpg %}" alt="" /></span></div>
+	<div class="4u$"><span class="image fit"><img src="{% link assets/images/presse/gruppe3-sw.jpg %}" alt="" /></span></div>
+	<!-- Break -->
+	<div class="4u"><span class="image fit"><img src="{% link assets/images/presse/gruppe4.jpg %}" alt="" /></span></div>
+	<div class="4u"><span class="image fit"><img src="{% link assets/images/presse/gruppe4-sw.jpg %}" alt="" /></span></div>
+    </div>
+</div>
