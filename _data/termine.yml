@@ -1,39 +1,56 @@
-- date: 15.11.23
+- date: 10.01.24
   time: "19:30"
   weekday: Mittwoch
-  notes:
-- date: 18.11.23
-  time: "10:00"
-  weekday: Samstag
-  notes: "Probentag MP (bis max. 16:00)"
-- date: 19.11.23
-  time: "11:00*"
-  weekday: Sonntag
-  notes: "Auftritt Witten"
-  important: true
-- date: 22.11.23
+  note: "Vorstandssitzung nach der Probe"
+- date: 17.01.24
   time: "19:30"
   weekday: Mittwoch
-  notes:
-  canceled: true
-- date: 29.11.23
+- date: 24.01.24
   time: "19:30"
   weekday: Mittwoch
-  notes:
-- date: 06.12.23
+- date: 31.01.24
+  time: "19:30"
+  weekday: Mittwoch
+- date: 07.02.24
   time: "19:30"
   weekday: Mittwoch
   notes: "Pizza 🍕"
-- date: 13.12.23
+- date: 14.02.24
   time: "19:30"
   weekday: Mittwoch
-  notes:
-- date: 20.12.23
+- date: 21.02.24
   time: "19:30"
   weekday: Mittwoch
-  notes:
-- date: 22.12.23
-  time: "17:30*"
+- date: 28.02.24
+  time: "19:30"
+  weekday: Mittwoch
+- date: 06.03.24
+  time: "19:30"
+  weekday: Mittwoch
+  notes: "Pizza 🍕"
+- date: 13.03.24
+  time: "19:30"
+  weekday: Mittwoch
+  notes: "Vorstandssitzung nach der Probe"
+- date: 17.03.2024
+  time: "15:00"
+  weekday: Sonntag
+  note: "Probentag MP"
+- date: 20.03.24
+  time: "19:30"
+  weekday: Mittwoch
+- date: 22.03.24
+  time: "19:00"
   weekday: Freitag
-  notes: "Rorate-Messe Hamm & Jahresausklang"
-  important: true
+  note: Hauptprobe MP
+- date: 23.03.24
+  time: "11:00"
+  weekday: Samstag
+- date: 23.03.24
+  time: "18:00"
+  weekday: Samstag
+  note: "Konzert MP Bochum"
+- date: 24.03.24
+  time: "14:00"
+  weekday: Sonntag
+  note: "Konzert MP Hagen"
