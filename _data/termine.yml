@@ -1,7 +1,7 @@
 - date: 10.01.24
   time: "19:30"
   weekday: Mittwoch
-  note: "Vorstandssitzung nach der Probe"
+  notes: "Vorstandssitzung nach der Probe"
 - date: 17.01.24
   time: "19:30"
   weekday: Mittwoch
@@ -35,22 +35,46 @@
 - date: 17.03.2024
   time: "15:00"
   weekday: Sonntag
-  note: "Probentag MP"
+  notes: "Probentag MP"
 - date: 20.03.24
   time: "19:30"
   weekday: Mittwoch
 - date: 22.03.24
   time: "19:00"
   weekday: Freitag
-  note: Hauptprobe MP
+  notes: Hauptprobe MP
 - date: 23.03.24
   time: "11:00"
   weekday: Samstag
 - date: 23.03.24
   time: "18:00"
   weekday: Samstag
-  note: "Konzert MP Bochum"
+  notes: "Konzert MP Bochum"
 - date: 24.03.24
   time: "14:00"
   weekday: Sonntag
-  note: "Konzert MP Hagen"
+  notes: "Konzert MP Hagen"
+- date: "15.06.24*"
+  weekday: Samstag
+  notes: "Nelson-Messe*"
+- date: "17.06.24*"
+  weekday: Montag
+  notes: "Nelson-Messe*"
+- date: "18.16.24"
+  weekday: Dienstag
+  notes: "Nelson-Messe*"
+- date: "29.06.24"
+  weekday: Samstag
+  notes: "Aufnahme \"Verwandelte Nacht\" (ganztägig)"
+- date: "30.06.24"
+  weekday: Sonntag
+  notes: "Aufnahme \"Verwandelte Nacht\" (ganztägig)"
+- date: "14.09.24"
+  weekday: Samstag
+  notes: "GP Vorbeck-Messe"
+- date: "15.09.24"
+  weekday: Sonntag
+  notes: "Konzert Vorbeck-Messe"
+- date: "15.12.24"
+  weekday: Sonntag
+  notes: "Weihnachtskonzert (Probe vermtl. am 14.)"
