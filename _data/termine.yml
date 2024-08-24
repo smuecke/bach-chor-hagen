@@ -1,80 +1,85 @@
-- date: 10.01.24
+- date: "28.08.24"
   time: "19:30"
   weekday: Mittwoch
-  notes: "Vorstandssitzung nach der Probe"
-- date: 17.01.24
-  time: "19:30"
-  weekday: Mittwoch
-- date: 24.01.24
-  time: "19:30"
-  weekday: Mittwoch
-- date: 31.01.24
-  time: "19:30"
-  weekday: Mittwoch
-- date: 07.02.24
+- date: "04.09.24"
   time: "19:30"
   weekday: Mittwoch
   notes: "Pizza 🍕"
-- date: 14.02.24
+- date: "11.09.24"
   time: "19:30"
   weekday: Mittwoch
-- date: 21.02.24
-  time: "19:30"
-  weekday: Mittwoch
-- date: 28.02.24
-  time: "19:30"
-  weekday: Mittwoch
-- date: 06.03.24
-  time: "19:30"
-  weekday: Mittwoch
-  notes: "Pizza 🍕"
-- date: 13.03.24
-  time: "19:30"
-  weekday: Mittwoch
-  notes: "Vorstandssitzung nach der Probe"
-- date: 17.03.2024
-  time: "15:00"
-  weekday: Sonntag
-  notes: "Probentag MP"
-- date: 20.03.24
-  time: "19:30"
-  weekday: Mittwoch
-- date: 22.03.24
-  time: "19:00"
-  weekday: Freitag
-  notes: Hauptprobe MP
-- date: 23.03.24
-  time: "11:00"
-  weekday: Samstag
-- date: 23.03.24
-  time: "18:00"
-  weekday: Samstag
-  notes: "Konzert MP Bochum"
-- date: 24.03.24
-  time: "14:00"
-  weekday: Sonntag
-  notes: "Konzert MP Hagen"
-- date: "15.06.24*"
-  weekday: Samstag
-  notes: "Nelson-Messe*"
-- date: "17.06.24*"
-  weekday: Montag
-  notes: "Nelson-Messe*"
-- date: "18.16.24"
-  weekday: Dienstag
-  notes: "Nelson-Messe*"
-- date: "29.06.24"
-  weekday: Samstag
-  notes: "Aufnahme \"Verwandelte Nacht\" (ganztägig)"
-- date: "30.06.24"
-  weekday: Sonntag
-  notes: "Aufnahme \"Verwandelte Nacht\" (ganztägig)"
 - date: "14.09.24"
   weekday: Samstag
   notes: "GP Vorbeck-Messe"
+  important: true
 - date: "15.09.24"
+  time: "16:00 Uhr"
   weekday: Sonntag
   notes: "Konzert Vorbeck-Messe"
+  important: true
+- date: "18.09.24"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "25.09.24"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "02.10.24"
+  time: "19:30"
+  weekday: Mittwoch
+  notes: "Pizza 🍕"
+- date: "09.10.24"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "12.10.24"
+  time: "15:00"
+  weekday: Samstag
+  notes: "Hochzeit Michael & Christina"
+  important: true
+- date: "16.10.24"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "23.10.24"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "30.10.24"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "06.11.24"
+  time: "19:30"
+  weekday: Mittwoch
+  notes: "Pizza 🍕"
+- date: "13.11.24"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "13.11.24"
+  time: "19:30"
+  weekday: Mittwoch
+  notes: "Vorstandssitzung"
+- date: "20.11.24"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "20.11.24"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "27.11.24"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "04.12.24"
+  time: "19:30"
+  weekday: Mittwoch
+  notes: "Pizza 🍕"
+- date: "11.12.24"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "14.12.24"
+  weekday: Samstag
+  notes: "GP Weihnachtskonzert"
+  important: true
 - date: "15.12.24"
   weekday: Sonntag
-  notes: "Weihnachtskonzert (Probe vermtl. am 14.)"
+  notes: "Weihnachtskonzert"
+  important: true
+- date: "18.12.24"
+  time: "19:30"
+  weekday: Mittwoch
+  notes: "*Jahresausklang"

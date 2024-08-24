@@ -10,6 +10,7 @@ show_tile: false
   <div class="8u 12u$(small)">
   <h2 id="termine">Terminübersicht</h2>
   <p>Kommende Proben- und Konzerttermine. Unsichere oder vorläufige Angaben sind mit * markiert - aktuelle Ankündigungen auf <a href="https://bachchorhagen.slack.com">Slack</a> beachten!</p>
+  <!--<input type="checkbox" id="mittwoch" name="mittwoch" checked><label for="mittwoch">Mittwochsproben anzeigen</label>-->
   <table>
   <tbody>
     {% for item in site.data.termine %}
