@@ -1,35 +1,13 @@
-- date: "09.10.24"
-  time: "19:30"
-  weekday: Mittwoch
-  notes: "In St. Elisabeth (Scharnhorststr. 27)"
-- date: "12.10.24"
-  time: "15:00"
-  weekday: Samstag
-  notes: "Hochzeit Michael & Christina"
-  important: true
-- date: "16.10.24"
-  time: "19:30"
-  weekday: Mittwoch
-- date: "23.10.24"
-  time: "19:30"
-  weekday: Mittwoch
-- date: "30.10.24"
-  time: "19:30"
-  weekday: Mittwoch
-- date: "06.11.24"
-  time: "19:30"
-  weekday: Mittwoch
-  notes: "Pizza 🍕"
 - date: "13.11.24"
   time: "19:30"
   weekday: Mittwoch
-  notes: "Vorstandssitzung"
 - date: "20.11.24"
   time: "19:30"
   weekday: Mittwoch
 - date: "27.11.24"
   time: "19:30"
   weekday: Mittwoch
+  notes: "Vorstandssitzung"
 - date: "04.12.24"
   time: "19:30"
   weekday: Mittwoch
