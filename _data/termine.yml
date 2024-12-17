@@ -1,32 +1,8 @@
-- date: "13.11.24"
-  time: "19:30"
-  weekday: Mittwoch
-- date: "20.11.24"
-  time: "19:30"
-  weekday: Mittwoch
-- date: "27.11.24"
-  time: "19:30"
-  weekday: Mittwoch
-  notes: "Vorstandssitzung"
-- date: "04.12.24"
-  time: "19:30"
-  weekday: Mittwoch
-  notes: "Pizza 🍕"
-- date: "11.12.24"
-  time: "19:30"
-  weekday: Mittwoch
-- date: "14.12.24"
-  weekday: Samstag
-  notes: "GP Weihnachtskonzert"
-  important: true
-- date: "15.12.24"
-  weekday: Sonntag
-  notes: "Weihnachtskonzert"
-  important: true
 - date: "18.12.24"
   time: "19:30"
   weekday: Mittwoch
-  notes: "*Jahresausklang"
+  notes: "Emil-Schumacher-Museum"
+  important: true
 - date: "15.03.2025"
   weekday: Samstag
   notes: "CD-Aufnahme (Hamm)"
