@@ -7,91 +7,93 @@ nav-menu: false
 
 <div class="box">
 <h3>Pearsall: Lay a Garland</h3>
-<p>Legt eine Girlande auf ihren Leichenwagen
-von [der] düsteren Eibe.
-Mädchen, die Weidenzweige tragen,
-sagen, dass sie wahrhaftig starb.
-Ihre Liebe war falsch, doch sie war fest
-Auf ihrem bestatteten Leichnam liegst
-du leicht, du sanfte Erde.</p></div>
+<p>Legt eine Girlande auf ihren Leichenwagen von düsterer Eibe.<br>
+Mädchen, die Weidenzweige tragen, sagen, dass sie wahrhaftig starb.<br>
+Ihre Liebe war falsch, doch sie war fest.<br>
+Auf ihrem bestatteten Leichnam liegst du leicht, du sanfte Erde.</p></div>
+
 
 <div class="box">
 <h3>Weelkes: When David heard</h3>
-<p>Als David hörte, dass Absalom erschlagen worden war, ging er hinauf in seine Kammer über dem Tor,und weinte:
-O mein Sohn Absalom, mein Sohn,
-mein Sohn Absalom!
-Hätte ich doch für dich sterben können!
+<p>Als David hörte, dass Absalom erschlagen worden war,<br>
+ging er hinauf in seine Kammer über dem Tor und weinte:<br>
+O mein Sohn Absalom, mein Sohn, mein Sohn Absalom!<br>
+Hätte ich doch für dich sterben können!<br>
 Absalom, mein Sohn, mein Sohn!</p></div>
 
 
 <div class="box"><h3>Miskinis: Time is endless</h3>
-<p>Die Zeit ist endlos in deinen Händen, mein Gott. Es gibt niemanden, der deine Minuten zählt.
+<p>Die Zeit ist endlos in deinen Händen, mein Gott.<br>
+Es gibt niemanden, der deine Minuten zählt.</p>
 
-Tage und Nächte vergehen und Zeitalter blühen und vergehen wie Blumen. 
-Du verstehst es zu warten.
+<p>Tage und Nächte vergehen und Zeitalter blühen und vergehen wie Blumen.<br>
+Du verstehst es zu warten.</p>
 
-Deine Jahrhunderte folgen einander und vervollkommnen eine kleine wilde Blume.
+<p>Deine Jahrhunderte folgen einander<br>
+und vervollkommnen eine kleine wilde Blume.</p>
 
-Wir haben keine Zeit zu verlieren, und da wir keine Zeit haben, müssen wir uns um eine Chance bemühen. Wir sind zu schwach, um zu spät zu kommen.
+<p>Wir haben keine Zeit zu verlieren,<br>
+und da wir keine Zeit haben,<br>
+müssen wir uns um eine Chance bemühen.<br>
+Wir sind zu schwach, um zu spät zu kommen.</p>
 
-Und so vergeht die Zeit: während ich sie jedem Zweifler schenke, der sie beansprucht, 
-ist dein Altar bis zum Ende leer von allen Gaben.
+<p>Und so vergeht die Zeit:<br>
+während ich sie jedem Zweifler schenke, der sie beansprucht,<br>
+ist dein Altar bis zum Ende leer von allen Gaben.</p>
 
-Am Ende des Tages eile ich in Angst, damit dein Tor nicht verschlossen wird; aber ich finde, dass noch Zeit ist.</p>
+<p>Am Ende des Tages eile ich in Angst,<br>
+dass dein Tor nicht verschlossen sei;<br>
+aber ich finde, dass noch Zeit ist.</p>
 (Rabindranath Tagore)</div>
 
 
 <div class="box">
 <h3>Stainer: God so loved the world</h3>
-<p>Also hat Gott die Welt geliebt, dass er seinen eingeborenen Sohn gab,
-damit jeder, der an ihn glaubt, nicht verloren gehe,
-sondern ewiges Leben habe.
-Denn Gott hat seinen Sohn nicht in die Welt gesandt, dass er die Welt richte,
+<p>Also hat Gott die Welt geliebt,<br>
+dass er seinen eingeborenen Sohn gab,<br>
+damit jeder, der an ihn glaubt, nicht verloren gehe,<br>
+sondern ewiges Leben habe.<br>
+Denn Gott hat seinen Sohn nicht in die Welt gesandt, dass er die Welt richte,<br>
 sondern dass die Welt durch ihn gerettet werde.</p></div>
 
 
 <div class="box">
 <h3>Parry: Never weatherbeaten sail</h3>
-<p>Niemals steuerte ein sturmgebeuteltes Segel bereitwilliger auf die Küste zu,
-niemals sehnten sich die Glieder müder Pilger mehr nach Schlaf,
-als meine matte Seele sich jetzt danach sehnt, aus meiner bedrückten Brust zu entfliehen:
-Komm rasch, Herr, und bring meiner Seele Frieden.
+<p>Niemals steuerte ein sturmgebeuteltes Segel bereitwilliger auf die Küste zu,<br>
+niemals sehnten sich die Glieder müder Pilger mehr nach Schlaf,<br>
+als meine matte Seele sich jetzt danach sehnt,<br>
+aus meiner bedrückten Brust zu entfliehen:<br>
+Komm rasch, Herr, und bring meiner Seele Frieden.</p>
 
-Unvergänglich sind die Freuden des himmlischen Paradieses,
-dort macht das kalte Alter weder unsere Ohren taub noch unsere Augen trüb;
-die Herrlichkeit Gottes, deren Strahlen nur die Seligen sehen, überstrahlt dort die Sonne:
+<p>Unvergänglich sind die Freuden des himmlischen Paradieses,<br>
+dort macht das kalte Alter weder unsere Ohren taub noch unsere Augen trüb;<br>
+die Herrlichkeit Gottes, deren Strahlen nur die Seligen sehen, überstrahlt dort die Sonne:<br>
 Komm rasch, Herr, und erhebe meine Seele zu Dir</p></div>
+
 
 <div class="box">
 <h3>Gjeilo: Unicornis captivartur</h3>
-<p>Das Einhorn wurd gefangen
-Und am Hof des Königs präsentiert
-In der Schlinge des Jägers;
-Schleichend befreit es sich vom Pfahl,
-verwundet, heilt es sich selbst
-mit dem Gift der Schlange
+<p>Das Einhorn wurde gefangen<br>
+Und am Hof des Königs präsentiert<br>
+In der Schlinge des Jägers;<br>
+Schleichend befreit es sich vom Pfahl,<br>
+verwundet heilt es sich selbst<br>
+mit dem Gift der Schlange.</p>
 
-Singt Alleluja
-Dem sterbenden Lamm,
-singt Alleluja,
-ruft Alleluja
-dem siegreichen Löwen
+<p>Singt Alleluja dem sterbenden Lamm,
+singt Alleluja, ruft Alleluja dem siegreichen Löwen.</p>
 
+<p>Das Leben kehrt zum verwundeten Pelikan zurück<br>
+nach dem elenden Tod in seinem Nest für die Sünden der Welt.<br>
+Das Licht des Phönix ist erloschen.<br>
+Die alten Sünden der Welt sind vollständig im Feuer verbrannt.</p>
 
-Das Leben kehrt zum verwundeten
-Pelikan zurück nach dem elenden Tod 
-in seinem Nest für die Sünden der Welt.
-Das Licht des Phönix ist erloschen
-Die alten Sünden der Welt
-Sind vollständig im Feuer verbrannt
+<p>Singt Alleluja ...</p>
 
-Singt Alleluja….
+<p>Die Hydra verschlingt das Krokodil von innen,/br>
+Seine Eingeweide, tötet es, und kehrt zum Leben zurück;<br>
+Drei Tage schlief der Löwe, bis der König ihn mit einem Schrei erweckt.</br>
 
-Die Hydra verschlingt das Krokodil von innen,
-seine Eingeweide, tötet es,
-und kehrt zum Leben zurück;
-drei Tage schlief der Löwe,
-bis der König ihn
-mit einem Schrei erweckt
+<p>Singt Alleluja ...</p></div>
 
-Singt Alleluja</p></div>
+<i>Übersetzungen von Gerhard Pauli</i>
