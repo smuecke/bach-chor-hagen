@@ -92,8 +92,6 @@ Die alten Sünden der Welt sind vollständig im Feuer verbrannt.</p>
 
 <p>Die Hydra verschlingt das Krokodil von innen,/br>
 Seine Eingeweide, tötet es, und kehrt zum Leben zurück;<br>
-Drei Tage schlief der Löwe, bis der König ihn mit einem Schrei erweckt.</br>
+Drei Tage schlief der Löwe, bis der König ihn mit einem Schrei erweckt.</p>
 
 <p>Singt Alleluja ...</p></div>
-
-<i>Übersetzungen von Gerhard Pauli</i>
