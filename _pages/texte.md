@@ -3,6 +3,7 @@ layout: post
 title: Übersetzungen der Texte
 permalink: /texte/
 nav-menu: false
+show_tile: false
 ---
 
 <div class="box">
