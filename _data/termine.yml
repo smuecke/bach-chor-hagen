@@ -1,41 +1,85 @@
-- date: "23.04.2025"
+- date: "20.08.2025"
   time: "19:30"
   weekday: Mittwoch
-  notes: "Probe trotz Osterferien"
-- date: "30.04.2025"
+- date: "27.08.2025"
   time: "19:30"
   weekday: Mittwoch
-- date: "07.05.2025"
-  time: "19:30"
-  weekday: Mittwoch
-  notes: "🍕"
-- date: "14.05.2025"
-  time: "19:30"
-  weekday: Mittwoch
-- date: "21.05.2025"
-  time: "19:30"
-  weekday: Mittwoch
-- date: "28.05.2025"
-  time: "19:30"
-  weekday: Mittwoch
-- date: "04.06.2025"
+- date: "30.08.2025"
+  time: "10:00"
+  weekday: Samstag
+  notes: "Teamtag Spielraum TSV Hagen"
+- date: "03.09.2025"
   time: "19:30"
   weekday: Mittwoch
   notes: "🍕"
-- date: "11.06.2025"
+- date: "10.09.2025"
   time: "19:30"
   weekday: Mittwoch
-- date: "18.06.2025"
-  time: "19:30"
-  weekday: Mittwoch
-- date: "25.06.2025"
-  time: "19:30"
-  weekday: Mittwoch
-- date: "28.06.2025"
+- date: "13.09.2025"
   time: "18:00"
   weekday: Samstag
-  notes: "Sommerkonzert"
-- date: "02.07.2025"
-  time: "*18:30"
+  notes: "Jubiläumskonzert Hildegardis-Schule"
+- date: "17.09.2025"
+  time: "19:30"
   weekday: Mittwoch
-  notes: "*Sommerfest"
+- date: "24.09.2025"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "01.10.2025"
+  time: "19:30"
+  weekday: Mittwoch
+  notes: "🍕"
+- date: "08.10.2025"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "15.10.2025"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "22.10.2025"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "26.10.2025"
+  time: "11:30"
+  weekday: Sonntag
+  notes: "Gottesdienst in St. Walburga, Werl"
+- date: "29.10.2025"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "05.11.2025"
+  time: "19:30"
+  weekday: Mittwoch
+  notes: "🍕"
+- date: "12.11.2025"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "19.11.2025"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "26.11.2025"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "03.12.2025"
+  time: "19:30"
+  weekday: Mittwoch
+  notes: "🍕"
+- date: "10.12.2025"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "12.12.2025"
+  time: "19:00"
+  weekday: Freitag
+  notes: "Hauptprobe Weihnachtsoratorium"
+- date: "13.12.2025"
+  time: "13:00"
+  weekday: Samstag
+  notes: "Generalprobe Weihnachtsoratorium"
+- date: "14.12.2025"
+  time: ""
+  weekday: Sonntag
+  notes: "Konzert Weihnachtsoratorium"
+- date: "17.12.2025"
+  time: "16:00*"
+  weekday: Mittwoch
+
+
+
