@@ -19,3 +19,5 @@ Dessen weltweit einzigartiges „Divertissementchen“ in der Kölner Oper dirig
 Zuvor arbeitete er außerdem als kommissarischer Leiter des Chores der Konzertgesellschaft Wuppertal mit namhaften Dirigenten zusammen und war als Dekanatskirchenmusiker im Erzbistum Paderborn tätig.</p>
 
 <p>Der Bach-Chor Hagen steht seit 2016 unter seiner Leitung. In dieser Zeit hat der Chor seine stilistische Vielseitigkeit weiterentwickeln können, die von Werken der Renaissance bis zu Uraufführungen moderner Vokalwerke reicht.</p>
+
+<p><i>Möchten Sie mit dem Chorleiter des Bach-Chors Kontakt aufnehmen, senden Sie gern eine Nachricht an</i> <a href="mailto:chorleiter@bach-chor-hagen.de">chorleiter@bach-chor-hagen.de</a>.</p>
