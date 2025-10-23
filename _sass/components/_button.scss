@@ -123,6 +123,21 @@
 			}
 		}
 
+		&.xtraspecial {
+			background-color: rgb(255,0,0);
+			box-shadow: none;
+			color: _palette(bg);
+
+			&:hover, &:active {
+				background-color: rgb(255,0,0);
+				color: _palette(bg) !important;
+			}
+
+			&:active {
+				background-color: desaturate(darken(rgb(255,0,0), 15), 5);
+			}
+		}
+
 		&.disabled,
 		&:disabled {
 			@include vendor('pointer-events', 'none');
