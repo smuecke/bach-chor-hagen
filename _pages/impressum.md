@@ -17,7 +17,7 @@ Hoffnungstaler Str. 34
 | E-Mail | `cantate@bach-chor-hagen.de` |
 
 Vertreten durch **Dr. Gerhard Pauli** (1. Vorsitzender).
-Verantwortlicher gem. §55 Abs. 2 RStV: Sascha Mücke, Hochstr. 26, 44149 Dortmund.
+Verantwortlicher gem. §55 Abs. 2 RStV: Dr. Sascha Mücke, Hochstr. 26, 44149 Dortmund.
 
 ## Registereintrag
 
@@ -30,7 +30,7 @@ Eingetragen im Vereinsregister.
 
 ## Bildquellen
 
-Das Hintergrundbild der Kategorie *Allgemeines* auf der Hauptseite wurde von **Sascha Mücke** erstellt.
+Das Hintergrundbild der Kategorie *Allgemeines* auf der Hauptseite wurde von **Dr. Sascha Mücke** erstellt.
 Alle weiteren Hintergrundbilder der Kategorien wurden von **Bernhard van Riel** erstellt.
 Die Urheber aller weiteren Bilder sind bei Verwendung direkt gekennzeichnet.
 
