@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'sass-embedded', '1.58.3'
 gem 'jekyll', '~> 4.2'
 
 group :jekyll_plugins do
