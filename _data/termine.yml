@@ -1,21 +1,224 @@
-- date: "03.12.2025"
+- date: "07.01.2026"
   time: "19:30"
   weekday: Mittwoch
-  notes: "🍕"
-- date: "10.12.2025"
+  canceled: true
+- date: "14.01.2026"
   time: "19:30"
   weekday: Mittwoch
-- date: "13.12.2025"
-  time: "*13:00"
+- date: "21.01.2026"
+  time: "19:30"
+  weekday: Mittwoch
+  notes: "Ohne CB"
+- date: "28.01.2026"
+  time: "19:30"
+  weekday: Mittwoch
+  notes: "Ohne CB"
+- date: "04.02.2026"
+  time: "19:30"
+  weekday: Mittwoch
+  notes: "Ohne CB"
+- date: "11.02.2026"
+  time: "19:30"
+  weekday: Mittwoch
+  notes: "JHV"
+- date: "18.02.2026"
+  time: "19:30"
+  weekday: Mittwoch
+  notes: "Ohne CB"
+- date: "25.02.2026"
+  time: "19:30"
+  weekday: Mittwoch
+  notes: "Ohne CB"
+- date: "04.03.2026"
+  time: "19:30"
+  weekday: Mittwoch
+  notes: "🍕 "
+- date: "11.03.2026"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "18.03.2026"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "25.03.2026"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "01.04.2026"
+  time: "19:30"
+  weekday: Mittwoch
+  notes: "🍕 Osterferien"
+- date: "08.04.2026"
+  time: "19:30"
+  weekday: Mittwoch
+  notes: "Osterferien"
+  canceled: true
+- date: "15.04.2026"
+  time: "19:30"
+  weekday: Mittwoch
+  notes: "HP mit Laute"
+- date: "18.04.2026"
+  time: "18:00"
   weekday: Samstag
-  notes: "Generalprobe Weihnachtsoratorium"
-- date: "14.12.2025"
-  time: "*16:00"
+  notes: "Konzert Schütz, Liebfrauen BO"
+- date: "19.04.2026"
+  time: "17:00"
   weekday: Sonntag
-  notes: "Konzert Weihnachtsoratorium"
-- date: "17.12.2025"
+  notes: "Konzert Schütz, St. Meinolf HA"
+- date: "22.04.2026"
   time: "19:30"
   weekday: Mittwoch
-
-
-
+- date: "29.04.2026"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "06.05.2026"
+  time: "19:30"
+  weekday: Mittwoch
+  notes: "🍕 "
+- date: "13.05.2026"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "20.05.2026"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "27.05.2026"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "03.06.2026"
+  time: "19:30"
+  weekday: Mittwoch
+  notes: "🍕 "
+- date: "10.06.2026"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "17.06.2026"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "21.06.2026"
+  time: "11:30"
+  weekday: Sonntag
+  notes: "GD Werl, danach Ausflug"
+- date: "24.06.2026"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "01.07.2026"
+  time: "19:30"
+  weekday: Mittwoch
+  notes: "🍕 "
+- date: "08.07.2026"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "15.07.2026"
+  time: "19:00"
+  weekday: Mittwoch
+  notes: "Sommerfest"
+  important: true
+- date: "22.07.2026"
+  time: "19:30"
+  weekday: Mittwoch
+  notes: "Sommerferien"
+  canceled: true
+- date: "29.07.2026"
+  time: "19:30"
+  weekday: Mittwoch
+  notes: "Sommerferien"
+  canceled: true
+- date: "05.08.2026"
+  time: "19:30"
+  weekday: Mittwoch
+  notes: "🍕 Sommerferien"
+  canceled: true
+- date: "12.08.2026"
+  time: "19:30"
+  weekday: Mittwoch
+  notes: "Sommerferien"
+  canceled: true
+- date: "19.08.2026"
+  time: "19:30"
+  weekday: Mittwoch
+  notes: "Sommerferien"
+  canceled: true
+- date: "26.08.2026"
+  time: "19:30"
+  weekday: Mittwoch
+  notes: "Sommerferien"
+- date: "02.09.2026"
+  time: "19:30"
+  weekday: Mittwoch
+  notes: "🍕 "
+- date: "09.09.2026"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "11.09.2026"
+  time: "19:00"
+  weekday: Freitag
+  notes: "PWE Paulus, Alte Propstei BO"
+- date: "12.09.2026"
+  time: "10:00"
+  weekday: Samstag
+  notes: "PWE Paulus, Alte Propstei BO"
+- date: "13.09.2026"
+  time: "15:00"
+  weekday: Sonntag
+  notes: "PWE Paulus, Alte Propstei BO"
+- date: "16.09.2026"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "23.09.2026"
+  time: "19:30"
+  weekday: Mittwoch
+  notes: "HP Paulus"
+- date: "25.09.2026"
+  time: "19:00"
+  weekday: Freitag
+  notes: "GP Paulus"
+- date: "26.09.2026"
+  time: "18:00"
+  weekday: Samstag
+  notes: "Konzert Paulus, Liebfrauen BO, AP 16:00"
+- date: "27.09.2026"
+  time: "17:00"
+  weekday: Sonntag
+  notes: "Konzert Paulus, Johanniskirche HA, AP 15:30"
+- date: "30.09.2026"
+  time: "19:30"
+  weekday: Mittwoch
+  canceled: true
+- date: "07.10.2026"
+  time: "19:30"
+  weekday: Mittwoch
+  notes: "🍕 "
+- date: "14.10.2026"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "21.10.2026"
+  time: "19:30"
+  weekday: Mittwoch
+  notes: "Herbstferien"
+- date: "28.10.2026"
+  time: "19:30"
+  weekday: Mittwoch
+  notes: "Herbstferien"
+- date: "04.11.2026"
+  time: "19:30"
+  weekday: Mittwoch
+  notes: "🍕 "
+- date: "11.11.2026"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "18.11.2026"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "25.11.2026"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "02.12.2026"
+  time: "19:30"
+  weekday: Mittwoch
+  notes: "🍕 "
+- date: "09.12.2026"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "16.12.2026"
+  time: "20:00"
+  weekday: Mittwoch
+  notes: "Benefizkonzert, Johanniskirche HA"
+  important: true
