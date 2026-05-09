@@ -16,7 +16,7 @@ Hoffnungstaler Str. 34
 | Telefon | `+49 (0)2302 390 939` |
 | E-Mail | `cantate@bach-chor-hagen.de` |
 
-Vertreten durch **Dr. Gerhard Pauli** (1. Vorsitzender).
+Vertreten durch **Michael Schultheis** (1. Vorsitzender).
 Verantwortlicher gem. § 18 Abs. 2 MStV: Dr. Sascha Mücke, Hochstr. 26, 44149 Dortmund.
 
 ## Registereintrag
