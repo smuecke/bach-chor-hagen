@@ -1,25 +1,7 @@
-- date: "06.05.2026"
-  time: "19:30"
-  weekday: Mittwoch
-- date: "06.05.2026"
-  time: "21:30"
-  weekday: Mittwoch
-  notes: "🍕🍻, Probenraum HdB"
-  important: true
-- date: "13.05.2026"
-  time: "18:30"
-  weekday: Mittwoch
-  notes: "Vorstandssitzung?"
-  important: true
-- date: "13.05.2026"
-  time: "19:30"
-  weekday: Mittwoch
-- date: "20.05.2026"
-  time: "19:30"
-  weekday: Mittwoch
 - date: "27.05.2026"
   time: "19:30"
   weekday: Mittwoch
+  notes: "Chorprobe + Beiratsbestellung, Probenraum HdB"
 - date: "03.06.2026"
   time: "19:30"
   weekday: Mittwoch
@@ -27,6 +9,11 @@
   time: "21:30"
   weekday: Mittwoch
   notes: "🍕🍻, Probenraum HdB"
+  important: true
+- date: "10.06.2026"
+  time: "18:30"
+  weekday: Mittwoch
+  notes: "Vorstandssitzung?"
   important: true
 - date: "10.06.2026"
   time: "19:30"
@@ -42,7 +29,12 @@
 - date: "21.06.2026"
   time: "11:30"
   weekday: Sonntag
-  notes: "Messe in Werl, anschließend Chorausflug, St. Walburga, Kirchpl., 59457 Werl, Deutschland"
+  notes: "Messe in Werl, St. Walburga, Kirchpl., 59457 Werl, Deutschland"
+  important: true
+- date: "21.06.2026"
+  time: "13:00"
+  weekday: Sonntag
+  notes: "Restaurantbesuch, markt20, Marktstraße 20, 59457 Werl, Deutschland"
   important: true
 - date: "21.06.2026"
   time: "15:00"
@@ -76,6 +68,11 @@
 - date: "15.07.2026"
   time: "19:30"
   weekday: Mittwoch
+- date: "05.08.2026"
+  time: "18:30"
+  weekday: Mittwoch
+  notes: "Vorstandssitzung?"
+  important: true
 - date: "26.08.2026"
   time: "19:30"
   weekday: Mittwoch
@@ -85,17 +82,17 @@
   notes: "!!! RUNDER GEBURTSTAG: Bettina Pahnke (60) !!!"
   important: true
 - date: "02.09.2026"
+  time: "18:30"
+  weekday: Mittwoch
+  notes: "Vorstandssitzung?"
+  important: true
+- date: "02.09.2026"
   time: "19:30"
   weekday: Mittwoch
 - date: "02.09.2026"
   time: "21:30"
   weekday: Mittwoch
   notes: "🍕🍻, Probenraum HdB"
-  important: true
-- date: "09.09.2026"
-  time: "18:30"
-  weekday: Mittwoch
-  notes: "Vorstandssitzung?"
   important: true
 - date: "09.09.2026"
   time: "19:30"
@@ -127,9 +124,9 @@
   time: "19:30"
   weekday: Mittwoch
 - date: "25.09.2026"
-  time: "19:00"
+  time: "18:00"
   weekday: Freitag
-  notes: "Gesamtprobe Paulus, Bochum"
+  notes: "Gesamtprobe Paulus, Liebfrauenkirche, Liebfrauenstraße 5, 44803 Bochum, Deutschland"
   important: true
 - date: "26.09.2026"
   time: "16:00"
@@ -151,6 +148,11 @@
   weekday: Sonntag
   notes: "Konzert Paulus, Johanniskirche, Johanniskirchpl. 10, 58095 Hagen, Deutschland"
   important: true
+- date: "30.09.2026"
+  time: "18:30"
+  weekday: Mittwoch
+  notes: "Vorstandssitzung?"
+  important: true
 - date: "06.10.2026"
   time: ""
   weekday: Dienstag
@@ -171,6 +173,11 @@
   time: "19:30"
   weekday: Mittwoch
 - date: "28.10.2026"
+  time: "18:30"
+  weekday: Mittwoch
+  notes: "Vorstandssitzung?"
+  important: true
+- date: "28.10.2026"
   time: "19:30"
   weekday: Mittwoch
 - date: "04.11.2026"
@@ -182,16 +189,16 @@
   notes: "🍕🍻, Probenraum HdB"
   important: true
 - date: "11.11.2026"
-  time: "18:30"
-  weekday: Mittwoch
-  notes: "Vorstandssitzung?"
-  important: true
-- date: "11.11.2026"
   time: "19:30"
   weekday: Mittwoch
 - date: "18.11.2026"
   time: "19:30"
   weekday: Mittwoch
+- date: "25.11.2026"
+  time: "18:30"
+  weekday: Mittwoch
+  notes: "Vorstandssitzung?"
+  important: true
 - date: "25.11.2026"
   time: "19:30"
   weekday: Mittwoch
@@ -214,7 +221,12 @@
 - date: "16.12.2026"
   time: "20:00"
   weekday: Mittwoch
-  notes: "Konzert Carol Service, Johanniskirche, Johanniskirchpl. 10, 58095 Hagen, Deutschland"
+  notes: "Konzert Carol Service, St. Marien, Hochstraße 81, 58095 Hagen, Deutschland"
+  important: true
+- date: "23.12.2026"
+  time: "18:30"
+  weekday: Mittwoch
+  notes: "Vorstandssitzung?"
   important: true
 - date: "23.12.2026"
   time: "19:30"
@@ -228,13 +240,13 @@
   notes: "🍕🍻, Probenraum HdB"
   important: true
 - date: "13.01.2027"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "20.01.2027"
   time: "18:30"
   weekday: Mittwoch
   notes: "Vorstandssitzung?"
   important: true
-- date: "13.01.2027"
-  time: "19:30"
-  weekday: Mittwoch
 - date: "20.01.2027"
   time: "19:30"
   weekday: Mittwoch
@@ -258,6 +270,11 @@
   time: "19:30"
   weekday: Mittwoch
 - date: "17.02.2027"
+  time: "18:30"
+  weekday: Mittwoch
+  notes: "Vorstandssitzung?"
+  important: true
+- date: "17.02.2027"
   time: "19:30"
   weekday: Mittwoch
 - date: "24.02.2027"
@@ -272,13 +289,13 @@
   notes: "🍕🍻, Probenraum HdB"
   important: true
 - date: "10.03.2027"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "17.03.2027"
   time: "18:30"
   weekday: Mittwoch
   notes: "Vorstandssitzung?"
   important: true
-- date: "10.03.2027"
-  time: "19:30"
-  weekday: Mittwoch
 - date: "17.03.2027"
   time: "19:30"
   weekday: Mittwoch
@@ -302,6 +319,11 @@
   notes: "🍕🍻, Probenraum HdB"
   important: true
 - date: "14.04.2027"
+  time: "18:30"
+  weekday: Mittwoch
+  notes: "Vorstandssitzung?"
+  important: true
+- date: "14.04.2027"
   time: "19:30"
   weekday: Mittwoch
 - date: "21.04.2027"
@@ -310,3 +332,37 @@
 - date: "28.04.2027"
   time: "19:30"
   weekday: Mittwoch
+- date: "05.05.2027"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "05.05.2027"
+  time: "21:30"
+  weekday: Mittwoch
+  notes: "🍕🍻, Probenraum HdB"
+  important: true
+- date: "11.05.2027"
+  time: "16:00"
+  weekday: Dienstag
+  notes: "Carmina Burana"
+  important: true
+- date: "12.05.2027"
+  time: "18:30"
+  weekday: Mittwoch
+  notes: "Vorstandssitzung?"
+  important: true
+- date: "12.05.2027"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "13.05.2027"
+  time: "16:00"
+  weekday: Donnerstag
+  notes: "Carmina Burana"
+  important: true
+- date: "19.05.2027"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "23.05.2027"
+  time: "11:00"
+  weekday: Sonntag
+  notes: "Gottesdienst Werl, St. Walburga, Kirchpl., 59457 Werl, Deutschland"
+  important: true
