@@ -1,11 +1,3 @@
-- date: "10.06.2026"
-  time: "18:30"
-  weekday: Mittwoch
-  notes: "Vorstandssitzung?"
-  important: true
-- date: "10.06.2026"
-  time: "19:30"
-  weekday: Mittwoch
 - date: "17.06.2026"
   time: "19:30"
   weekday: Mittwoch
@@ -13,6 +5,11 @@
   time: ""
   weekday: Donnerstag
   notes: "!!! RUNDER GEBURTSTAG: Christine Hausen (70) !!!"
+  important: true
+- date: "21.06.2026"
+  time: "10:15"
+  weekday: Sonntag
+  notes: "Einsingen, St. Walburga, Kirchpl., 59457 Werl, Deutschland"
   important: true
 - date: "21.06.2026"
   time: "11:30"
@@ -46,20 +43,20 @@
   notes: "🍕🍻, Probenraum HdB"
   important: true
 - date: "08.07.2026"
-  time: "18:30"
-  weekday: Mittwoch
-  notes: "Vorstandssitzung?"
-  important: true
-- date: "08.07.2026"
   time: "19:30"
   weekday: Mittwoch
+- date: "08.07.2026"
+  time: "21:30"
+  weekday: Mittwoch
+  notes: "Vorstandssitzung"
+  important: true
 - date: "15.07.2026"
   time: "19:30"
   weekday: Mittwoch
 - date: "05.08.2026"
-  time: "18:30"
+  time: "21:30"
   weekday: Mittwoch
-  notes: "Vorstandssitzung?"
+  notes: "Vorstandssitzung"
   important: true
 - date: "26.08.2026"
   time: "19:30"
@@ -70,13 +67,13 @@
   notes: "!!! RUNDER GEBURTSTAG: Bettina Pahnke (60) !!!"
   important: true
 - date: "02.09.2026"
-  time: "18:30"
-  weekday: Mittwoch
-  notes: "Vorstandssitzung?"
-  important: true
-- date: "02.09.2026"
   time: "19:30"
   weekday: Mittwoch
+- date: "02.09.2026"
+  time: "21:30"
+  weekday: Mittwoch
+  notes: "Vorstandssitzung"
+  important: true
 - date: "02.09.2026"
   time: "21:30"
   weekday: Mittwoch
@@ -137,9 +134,9 @@
   notes: "Konzert Paulus, Johanniskirche, Johanniskirchpl. 10, 58095 Hagen, Deutschland"
   important: true
 - date: "30.09.2026"
-  time: "18:30"
+  time: "21:30"
   weekday: Mittwoch
-  notes: "Vorstandssitzung?"
+  notes: "Vorstandssitzung"
   important: true
 - date: "06.10.2026"
   time: ""
@@ -161,13 +158,13 @@
   time: "19:30"
   weekday: Mittwoch
 - date: "28.10.2026"
-  time: "18:30"
-  weekday: Mittwoch
-  notes: "Vorstandssitzung?"
-  important: true
-- date: "28.10.2026"
   time: "19:30"
   weekday: Mittwoch
+- date: "28.10.2026"
+  time: "21:30"
+  weekday: Mittwoch
+  notes: "Vorstandssitzung"
+  important: true
 - date: "04.11.2026"
   time: "19:30"
   weekday: Mittwoch
@@ -183,13 +180,13 @@
   time: "19:30"
   weekday: Mittwoch
 - date: "25.11.2026"
-  time: "18:30"
-  weekday: Mittwoch
-  notes: "Vorstandssitzung?"
-  important: true
-- date: "25.11.2026"
   time: "19:30"
   weekday: Mittwoch
+- date: "25.11.2026"
+  time: "21:30"
+  weekday: Mittwoch
+  notes: "Vorstandssitzung"
+  important: true
 - date: "02.12.2026"
   time: "19:30"
   weekday: Mittwoch
@@ -209,16 +206,16 @@
 - date: "16.12.2026"
   time: "20:00"
   weekday: Mittwoch
-  notes: "Konzert Carol Service, St. Marien, Hochstraße 81, 58095 Hagen, Deutschland"
-  important: true
-- date: "23.12.2026"
-  time: "18:30"
-  weekday: Mittwoch
-  notes: "Vorstandssitzung?"
+  notes: "Konzert Carol Service, Heilig-Geist-Kirche, Willdestraße 19, 58093 Hagen, Deutschland"
   important: true
 - date: "23.12.2026"
   time: "19:30"
   weekday: Mittwoch
+- date: "23.12.2026"
+  time: "21:30"
+  weekday: Mittwoch
+  notes: "Vorstandssitzung"
+  important: true
 - date: "06.01.2027"
   time: "19:30"
   weekday: Mittwoch
@@ -231,13 +228,13 @@
   time: "19:30"
   weekday: Mittwoch
 - date: "20.01.2027"
-  time: "18:30"
-  weekday: Mittwoch
-  notes: "Vorstandssitzung?"
-  important: true
-- date: "20.01.2027"
   time: "19:30"
   weekday: Mittwoch
+- date: "20.01.2027"
+  time: "21:30"
+  weekday: Mittwoch
+  notes: "Vorstandssitzung"
+  important: true
 - date: "27.01.2027"
   time: "19:30"
   weekday: Mittwoch
@@ -258,13 +255,13 @@
   time: "19:30"
   weekday: Mittwoch
 - date: "17.02.2027"
-  time: "18:30"
-  weekday: Mittwoch
-  notes: "Vorstandssitzung?"
-  important: true
-- date: "17.02.2027"
   time: "19:30"
   weekday: Mittwoch
+- date: "17.02.2027"
+  time: "21:30"
+  weekday: Mittwoch
+  notes: "Vorstandssitzung"
+  important: true
 - date: "24.02.2027"
   time: "19:30"
   weekday: Mittwoch
@@ -280,13 +277,13 @@
   time: "19:30"
   weekday: Mittwoch
 - date: "17.03.2027"
-  time: "18:30"
-  weekday: Mittwoch
-  notes: "Vorstandssitzung?"
-  important: true
-- date: "17.03.2027"
   time: "19:30"
   weekday: Mittwoch
+- date: "17.03.2027"
+  time: "21:30"
+  weekday: Mittwoch
+  notes: "Vorstandssitzung"
+  important: true
 - date: "24.03.2027"
   time: "19:30"
   weekday: Mittwoch
@@ -307,13 +304,13 @@
   notes: "🍕🍻, Probenraum HdB"
   important: true
 - date: "14.04.2027"
-  time: "18:30"
-  weekday: Mittwoch
-  notes: "Vorstandssitzung?"
-  important: true
-- date: "14.04.2027"
   time: "19:30"
   weekday: Mittwoch
+- date: "14.04.2027"
+  time: "21:30"
+  weekday: Mittwoch
+  notes: "Vorstandssitzung"
+  important: true
 - date: "21.04.2027"
   time: "19:30"
   weekday: Mittwoch
@@ -334,13 +331,13 @@
   notes: "Carmina Burana"
   important: true
 - date: "12.05.2027"
-  time: "18:30"
-  weekday: Mittwoch
-  notes: "Vorstandssitzung?"
-  important: true
-- date: "12.05.2027"
   time: "19:30"
   weekday: Mittwoch
+- date: "12.05.2027"
+  time: "21:30"
+  weekday: Mittwoch
+  notes: "Vorstandssitzung"
+  important: true
 - date: "13.05.2027"
   time: "16:00"
   weekday: Donnerstag
@@ -364,4 +361,12 @@
   time: "21:30"
   weekday: Mittwoch
   notes: "🍕🍻, Probenraum HdB"
+  important: true
+- date: "09.06.2027"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "09.06.2027"
+  time: "21:30"
+  weekday: Mittwoch
+  notes: "Vorstandssitzung"
   important: true
