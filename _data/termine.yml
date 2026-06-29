@@ -1,11 +1,3 @@
-- date: "24.06.2026"
-  time: "19:30"
-  weekday: Mittwoch
-- date: "27.06.2026"
-  time: ""
-  weekday: Samstag
-  notes: "!!! RUNDER GEBURTSTAG: Annette Lucas-Sinn (60) !!!"
-  important: true
 - date: "01.07.2026"
   time: "19:30"
   weekday: Mittwoch
@@ -176,10 +168,14 @@
   time: "19:30"
   weekday: Mittwoch
 - date: "16.12.2026"
-  time: "20:00"
+  time: "18:00"
+  weekday: Mittwoch
+  notes: "Probe Carol Service, Heilig-Geist-Kirche, Willdestraße 19, 58093 Hagen, Deutschland"
+  important: true
+- date: "16.12.2026"
+  time: "19:30"
   weekday: Mittwoch
   notes: "Konzert Carol Service, Heilig-Geist-Kirche, Willdestraße 19, 58093 Hagen, Deutschland"
-  important: true
 - date: "23.12.2026"
   time: "19:30"
   weekday: Mittwoch
@@ -321,7 +317,7 @@
 - date: "23.05.2027"
   time: "11:30"
   weekday: Sonntag
-  notes: "Gottesdienst Werl, St. Walburga, Kirchpl., 59457 Werl, Deutschland"
+  notes: "Gottesdienst St. Marien, St. Marien, Hochstraße 81, 58095 Hagen, Deutschland"
   important: true
 - date: "26.05.2027"
   time: "19:30"
@@ -343,5 +339,8 @@
   notes: "Vorstandssitzung"
   important: true
 - date: "16.06.2027"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "23.06.2027"
   time: "19:30"
   weekday: Mittwoch
