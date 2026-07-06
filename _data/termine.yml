@@ -1,27 +1,17 @@
-- date: "01.07.2026"
-  time: "19:30"
-  weekday: Mittwoch
-- date: "01.07.2026"
-  time: "21:30"
-  weekday: Mittwoch
-  notes: "🍕🍻, Probenraum HdB"
-  important: true
 - date: "08.07.2026"
   time: "19:30"
   weekday: Mittwoch
 - date: "08.07.2026"
   time: "21:30"
   weekday: Mittwoch
-  notes: "Vorstandssitzung"
-  important: true
+  notes: "(Vorstandssitzung)"
 - date: "15.07.2026"
   time: "19:30"
   weekday: Mittwoch
 - date: "05.08.2026"
   time: "21:30"
   weekday: Mittwoch
-  notes: "Vorstandssitzung"
-  important: true
+  notes: "(Vorstandssitzung)"
 - date: "26.08.2026"
   time: "19:30"
   weekday: Mittwoch
@@ -36,8 +26,7 @@
 - date: "02.09.2026"
   time: "21:30"
   weekday: Mittwoch
-  notes: "Vorstandssitzung"
-  important: true
+  notes: "(Vorstandssitzung)"
 - date: "02.09.2026"
   time: "21:30"
   weekday: Mittwoch
@@ -100,8 +89,7 @@
 - date: "30.09.2026"
   time: "21:30"
   weekday: Mittwoch
-  notes: "Vorstandssitzung"
-  important: true
+  notes: "(Vorstandssitzung)"
 - date: "06.10.2026"
   time: ""
   weekday: Dienstag
@@ -127,8 +115,7 @@
 - date: "28.10.2026"
   time: "21:30"
   weekday: Mittwoch
-  notes: "Vorstandssitzung"
-  important: true
+  notes: "(Vorstandssitzung)"
 - date: "04.11.2026"
   time: "19:30"
   weekday: Mittwoch
@@ -149,8 +136,7 @@
 - date: "25.11.2026"
   time: "21:30"
   weekday: Mittwoch
-  notes: "Vorstandssitzung"
-  important: true
+  notes: "(Vorstandssitzung)"
 - date: "02.12.2026"
   time: "19:30"
   weekday: Mittwoch
@@ -182,8 +168,7 @@
 - date: "23.12.2026"
   time: "21:30"
   weekday: Mittwoch
-  notes: "Vorstandssitzung"
-  important: true
+  notes: "(Vorstandssitzung)"
 - date: "06.01.2027"
   time: "19:30"
   weekday: Mittwoch
@@ -201,8 +186,7 @@
 - date: "20.01.2027"
   time: "21:30"
   weekday: Mittwoch
-  notes: "Vorstandssitzung"
-  important: true
+  notes: "(Vorstandssitzung)"
 - date: "27.01.2027"
   time: "19:30"
   weekday: Mittwoch
@@ -228,8 +212,7 @@
 - date: "17.02.2027"
   time: "21:30"
   weekday: Mittwoch
-  notes: "Vorstandssitzung"
-  important: true
+  notes: "(Vorstandssitzung)"
 - date: "24.02.2027"
   time: "19:30"
   weekday: Mittwoch
@@ -250,8 +233,7 @@
 - date: "17.03.2027"
   time: "21:30"
   weekday: Mittwoch
-  notes: "Vorstandssitzung"
-  important: true
+  notes: "(Vorstandssitzung)"
 - date: "24.03.2027"
   time: "19:30"
   weekday: Mittwoch
@@ -277,8 +259,7 @@
 - date: "14.04.2027"
   time: "21:30"
   weekday: Mittwoch
-  notes: "Vorstandssitzung"
-  important: true
+  notes: "(Vorstandssitzung)"
 - date: "21.04.2027"
   time: "19:30"
   weekday: Mittwoch
@@ -304,8 +285,7 @@
 - date: "12.05.2027"
   time: "21:30"
   weekday: Mittwoch
-  notes: "Vorstandssitzung"
-  important: true
+  notes: "(Vorstandssitzung)"
 - date: "13.05.2027"
   time: "16:00"
   weekday: Donnerstag
@@ -336,11 +316,164 @@
 - date: "09.06.2027"
   time: "21:30"
   weekday: Mittwoch
-  notes: "Vorstandssitzung"
-  important: true
+  notes: "(Vorstandssitzung)"
 - date: "16.06.2027"
   time: "19:30"
   weekday: Mittwoch
 - date: "23.06.2027"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "30.06.2027"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "07.07.2027"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "07.07.2027"
+  time: "21:30"
+  weekday: Mittwoch
+  notes: "(Vorstandssitzung)"
+- date: "07.07.2027"
+  time: "21:30"
+  weekday: Mittwoch
+  notes: "🍕🍻, Probenraum HdB"
+  important: true
+- date: "14.07.2027"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "21.07.2027"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "28.07.2027"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "04.08.2027"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "04.08.2027"
+  time: "21:30"
+  weekday: Mittwoch
+  notes: "(Vorstandssitzung)"
+- date: "04.08.2027"
+  time: "21:30"
+  weekday: Mittwoch
+  notes: "🍕🍻, Probenraum HdB"
+  important: true
+- date: "11.08.2027"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "18.08.2027"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "25.08.2027"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "01.09.2027"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "01.09.2027"
+  time: "21:30"
+  weekday: Mittwoch
+  notes: "(Vorstandssitzung)"
+- date: "01.09.2027"
+  time: "21:30"
+  weekday: Mittwoch
+  notes: "🍕🍻, Probenraum HdB"
+  important: true
+- date: "02.09.2027"
+  time: ""
+  weekday: Donnerstag
+  notes: "!!! RUNDER GEBURTSTAG: Sandra Hartlieb (60) !!!"
+  important: true
+- date: "08.09.2027"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "15.09.2027"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "22.09.2027"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "29.09.2027"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "29.09.2027"
+  time: "21:30"
+  weekday: Mittwoch
+  notes: "(Vorstandssitzung)"
+- date: "03.10.2027"
+  time: "18:00"
+  weekday: Sonntag
+  notes: "Benefizkonzert, Johanniskirche, Johanniskirchpl. 10, 58095 Hagen, Deutschland"
+  important: true
+- date: "06.10.2027"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "06.10.2027"
+  time: "21:30"
+  weekday: Mittwoch
+  notes: "🍕🍻, Probenraum HdB"
+  important: true
+- date: "13.10.2027"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "20.10.2027"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "27.10.2027"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "27.10.2027"
+  time: "21:30"
+  weekday: Mittwoch
+  notes: "(Vorstandssitzung)"
+- date: "03.11.2027"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "03.11.2027"
+  time: "21:30"
+  weekday: Mittwoch
+  notes: "🍕🍻, Probenraum HdB"
+  important: true
+- date: "10.11.2027"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "15.11.2027"
+  time: ""
+  weekday: Montag
+  notes: "!!! RUNDER GEBURTSTAG: Ursula Jerschke (70) !!!"
+  important: true
+- date: "17.11.2027"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "24.11.2027"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "24.11.2027"
+  time: "21:30"
+  weekday: Mittwoch
+  notes: "(Vorstandssitzung)"
+- date: "01.12.2027"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "01.12.2027"
+  time: "21:30"
+  weekday: Mittwoch
+  notes: "🍕🍻, Probenraum HdB"
+  important: true
+- date: "08.12.2027"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "15.12.2027"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "22.12.2027"
+  time: "19:30"
+  weekday: Mittwoch
+- date: "22.12.2027"
+  time: "21:30"
+  weekday: Mittwoch
+  notes: "(Vorstandssitzung)"
+- date: "29.12.2027"
   time: "19:30"
   weekday: Mittwoch
