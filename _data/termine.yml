@@ -1,10 +1,14 @@
-- date: "15.07.2026"
+- date: "22.07.2026"
   time: "19:30"
   weekday: Mittwoch
-- date: "05.08.2026"
-  time: "21:30"
+- date: "25.07.2026"
+  time: "11:00"
+  weekday: Samstag
+  notes: "Trauerfeier, Gemeindebüro - Philipp-Nicolai-Kirche (Lydia Kirchengemeinde), Schwerter Str. 122, 58099 Hagen, Deutschland"
+  important: true
+- date: "29.07.2026"
+  time: "19:30"
   weekday: Mittwoch
-  notes: "(Vorstandssitzung)"
 - date: "26.08.2026"
   time: "19:00"
   weekday: Mittwoch
