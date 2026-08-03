@@ -1,6 +1,3 @@
-- date: "29.07.2026"
-  time: "19:30"
-  weekday: Mittwoch
 - date: "26.08.2026"
   time: "19:00"
   weekday: Mittwoch
@@ -29,12 +26,12 @@
 - date: "11.09.2026"
   time: "19:00"
   weekday: Freitag
-  notes: "Probenwochenende mit dem Propsteichor, Alte Propstei, Bleichstraße 1, 44787 Bochum, Deutschland"
+  notes: "Probenwochenende mit dem Propsteichor, Ruhr-Universität Bochum, Universitätsstraße 150, 44801 Bochum, Deutschland"
   important: true
 - date: "12.09.2026"
   time: "10:00"
   weekday: Samstag
-  notes: "Probenwochenende mit dem Propsteichor, Alte Propstei, Bleichstraße 1, 44787 Bochum, Deutschland"
+  notes: "Probenwochenende mit dem Propsteichor, Ruhr-Universität Bochum, Universitätsstraße 150, 44801 Bochum, Deutschland"
   important: true
 - date: "13.09.2026"
   time: "15:00"
