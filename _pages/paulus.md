@@ -15,9 +15,17 @@ Der Bach-Chor Hagen führt gemeinsam mit dem Kammerchor der Propsteimusik Bochum
 | 27. September 2026 | 17 Uhr | [Ev. Johanniskirche am Markt, Hagen](https://maps.app.goo.gl/D8ntiXyKfwht7ds36) |
 
 Karten erhalten Sie im Vorverkauf an einer unserer Verkaufsstellen oder an der Abendkasse.
-Der Preis beträgt 29 Euro im Vorverkauf und 32 Euro an der Abendkasse, ermäßigt jeweils 10 Euro günstiger.
+Der Preis beträgt **29 Euro im Vorverkauf** und **32 Euro an der Abendkasse**, ermäßigt jeweils 10 Euro günstiger.
 
-**Weitere Infos zum Vorverkauf folgen in Kürze, schauen Sie bald noch einmal herein!**
+## Vorverkaufsstellen
+
+Karten sind **ab sofort** an folgenden Vorverkaufsstellen an der Kasse erhältlich:
+
+| Vorverkaufsstelle | Adresse |
+| --- | --- |
+| Thalia Hagen | [Elberfelder Str. 31, 58095 Hagen](https://maps.app.goo.gl/5LnkasVVja5sHNjcA) |
+| Mayersche Bochum | [Kortumstr. 69-71, 44787 Bochum](https://maps.app.goo.gl/Cdz19gVmb67VRgkR7) |
+| Bäckerei Wickenburg | [Wittener Str. 228, 44803 Bochum](https://maps.app.goo.gl/8mCCYXHoqbBgE9ca8) |
 
 ## Sponsoren
 
