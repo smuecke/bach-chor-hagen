@@ -134,6 +134,41 @@
 				}
 			});
 
+		// Poster lightbox.
+			var $posterLightbox = $('[data-poster-lightbox]');
+
+			if ($posterLightbox.length > 0) {
+
+				var closePosterLightbox = function() {
+					$posterLightbox
+						.removeClass('is-visible')
+						.attr('aria-hidden', 'true');
+				};
+
+				$body
+					.on('click', '[data-poster-open]', function(event) {
+						event.preventDefault();
+						event.stopPropagation();
+
+						$posterLightbox
+							.addClass('is-visible')
+							.attr('aria-hidden', 'false');
+					})
+					.on('click', '[data-poster-close], [data-poster-lightbox]', function(event) {
+						if ($(event.target).is('[data-poster-lightbox], [data-poster-close]')) {
+							event.preventDefault();
+							event.stopPropagation();
+
+							closePosterLightbox();
+						}
+					})
+					.on('keydown', function(event) {
+						if (event.keyCode == 27)
+							closePosterLightbox();
+					});
+
+			}
+
 		// Tiles.
 			var $tiles = $('.tiles > article');
 

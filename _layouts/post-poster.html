@@ -28,7 +28,7 @@
 		<div class="poster-post">
 			{% if page.image %}
 				<aside class="poster-post-media">
-					<a class="poster-link" href="#poster-fullscreen" aria-label="Poster vergrößern">
+					<a class="poster-link" href="{{ page.image | relative_url }}" data-poster-open aria-label="Poster vergrößern">
 						<img src="{{ page.image | relative_url }}" alt="" />
 					</a>
 				</aside>
@@ -43,8 +43,8 @@
 		</div>
 
 		{% if page.image %}
-			<div id="poster-fullscreen" class="poster-lightbox" aria-label="Poster">
-				<a class="poster-lightbox-close" href="#" aria-label="Poster schließen"></a>
+			<div class="poster-lightbox" data-poster-lightbox aria-label="Poster" aria-hidden="true">
+				<button class="poster-lightbox-close" type="button" data-poster-close aria-label="Poster schließen"></button>
 				<img src="{{ page.image | relative_url }}" alt="" />
 			</div>
 		{% endif %}
