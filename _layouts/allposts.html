@@ -19,18 +19,28 @@
       <!-- One -->
       <section id="one">
 	<div class="inner">
+    <header class="major">
+      <h1>{{ page.title }}</h1>
+    </header>
 
     {{ content }}
 
-    {% for post in site.posts %}
-	  {% if post.title != 404 %}
-	  <h2>{{ post.title }}</h2>
-    <p>
-      {% if post.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
-      {{ post.content }}
-    </p>
-	  {% endif %}
-    {% endfor %}
+    <div class="post-list">
+      {% for post in site.posts %}
+        {% if post.title != 404 %}
+          {% assign preview_image = post.image | default: page.tile-image | default: 'assets/images/noten.jpg' %}
+          <a class="post-list-item" href="{{ post.url | relative_url }}">
+            <span class="post-list-thumb">
+              <img src="{{ preview_image | relative_url }}" alt="" loading="lazy" />
+            </span>
+            <span class="post-list-body">
+              <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d.%m.%Y" }}</time>
+              <strong>{{ post.title }}</strong>
+            </span>
+          </a>
+        {% endif %}
+      {% endfor %}
+    </div>
 	</div>
       </section>
 

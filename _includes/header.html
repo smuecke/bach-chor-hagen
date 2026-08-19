@@ -2,8 +2,8 @@
 <div id="wrapper">
 
 <!-- Header -->
-<header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
-	<a href="{{ "" | absolute_url }}/" class="logo"><img src="{{ "assets/images/logo/logo-weiss.svg" | absolute_url }}" height="50" style="vertical-align:middle;padding:5px"/><span>{{ site.subtitle }}</span></a>
+<header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt home-header"{% endif %}>
+	<a href="{{ "" | absolute_url }}/" class="logo"><img src="{{ "assets/images/logo/logo-weiss.svg" | absolute_url }}" alt="{{ site.title }}" /><span>{{ site.subtitle }}</span></a>
 	<nav>
 		<a href="#menu">Menü</a>
 	</nav>

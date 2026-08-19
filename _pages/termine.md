@@ -8,6 +8,6 @@ tile-image: assets/images/noten.jpg
 author: null
 ---
 
-Hier finden Sie Neuigkeiten, Ankündigungen und sonstige Informationen rund um den Bach-Chor.
+Hier finden Sie Neuigkeiten und Ankündigungen rund um den Bach-Chor.
 
 ***

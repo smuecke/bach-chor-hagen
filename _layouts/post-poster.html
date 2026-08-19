@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+{% include head.html %}
+
+<body class="post post-poster">
+
+    {% include header.html %}
+
+<!-- Main -->
+<div id="main" class="alt">
+
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>{{ page.title }}</h1>
+			<p class="post-meta">
+				<time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d.%m.%Y" }}</time>
+			</p>
+		</header>
+
+		<div class="poster-post">
+			{% if page.image %}
+				<aside class="poster-post-media">
+					<a class="poster-link" href="#poster-fullscreen" aria-label="Poster vergrößern">
+						<img src="{{ page.image | relative_url }}" alt="" />
+					</a>
+				</aside>
+			{% endif %}
+
+			<div class="poster-post-content">
+				{{ content }}
+				{% assign author = page.author | default: '' | strip %}
+				{% if author != '' %}<p class="post-author">{{ author }}</p>{% endif %}
+					<a href="{{ '/aktuelles/' | relative_url }}" class="button small">Zurück</a>
+			</div>
+		</div>
+
+		{% if page.image %}
+			<div id="poster-fullscreen" class="poster-lightbox" aria-label="Poster">
+				<a class="poster-lightbox-close" href="#" aria-label="Poster schließen"></a>
+				<img src="{{ page.image | relative_url }}" alt="" />
+			</div>
+		{% endif %}
+	</div>
+</section>
+</div>
+
+    {% include footer.html %}
+
+</body>
+
+</html>

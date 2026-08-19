@@ -8,7 +8,12 @@
 
 {% include head.html %}
 
-<body>
+{% assign is_blog_post = false %}
+{% if page.collection == 'posts' %}
+	{% assign is_blog_post = true %}
+{% endif %}
+
+<body{% if is_blog_post %} class="post"{% endif %}>
 
     {% include header.html %} 
     
@@ -21,11 +26,24 @@
 	<div class="inner">
 		<header class="major">
 			<h1>{{ page.title }}</h1>
+			{% if is_blog_post %}
+				<p class="post-meta">
+					<time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d.%m.%Y" }}</time>
+				</p>
+			{% endif %}
 		</header>
 		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
 		{{ content }}
+		{% if is_blog_post %}
+			{% assign author = page.author | default: '' | strip %}
+			{% if author != '' %}<p class="post-author">{{ author }}</p>{% endif %}
+		{% endif %}
 
-		<a href="javascript:history.back()" class="button small">Zurück</a>
+		{% if is_blog_post %}
+			<a href="{{ '/aktuelles/' | relative_url }}" class="button small">Zurück</a>
+		{% else %}
+			<a href="javascript:history.back()" class="button small">Zurück</a>
+		{% endif %}
 	</div>
 </section>
 </div>
