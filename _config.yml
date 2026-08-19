@@ -33,6 +33,7 @@ socials:
 
 # build settings
 markdown: kramdown
+permalink: /aktuelles/:year-:month-:day-:title/
 
 sass:
   style: compressed

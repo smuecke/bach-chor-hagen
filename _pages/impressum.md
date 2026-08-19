@@ -30,7 +30,7 @@ Eingetragen im Vereinsregister.
 
 ## Bildquellen
 
-Das Hintergrundbild der Kategorie *Allgemeines* auf der Hauptseite wurde von **Dr. Sascha Mücke** erstellt.
+Das Hintergrundbild der Kategorie *Allgemeines* auf der Hauptseite wurde von **Sascha Mücke** erstellt.
 Alle weiteren Hintergrundbilder der Kategorien wurden von **Bernhard van Riel** erstellt.
 Die Urheber aller weiteren Bilder sind bei Verwendung direkt gekennzeichnet.
 
