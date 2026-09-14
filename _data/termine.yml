@@ -1,25 +1,3 @@
-- date: "09.09.2026"
-  time: "19:30"
-  weekday: Mittwoch
-- date: "09.09.2026"
-  time: "21:30"
-  weekday: Mittwoch
-  notes: "(Vorstandssitzung)"
-- date: "11.09.2026"
-  time: "19:00"
-  weekday: Freitag
-  notes: "Probenwochenende mit dem Propsteichor, Ruhr-Universität Bochum, Universitätsstraße 150, 44801 Bochum, Deutschland"
-  important: true
-- date: "12.09.2026"
-  time: "10:00"
-  weekday: Samstag
-  notes: "Probenwochenende mit dem Propsteichor, Ruhr-Universität Bochum, Universitätsstraße 150, 44801 Bochum, Deutschland"
-  important: true
-- date: "13.09.2026"
-  time: "15:00"
-  weekday: Sonntag
-  notes: "Probenwochenende mit dem Propsteichor, Probenraum HdB"
-  important: true
 - date: "16.09.2026"
   time: "19:30"
   weekday: Mittwoch
@@ -27,12 +5,12 @@
   time: "19:30"
   weekday: Mittwoch
 - date: "25.09.2026"
-  time: "18:00"
+  time: "17:30"
   weekday: Freitag
   notes: "Gesamtprobe Paulus, Liebfrauenkirche, Liebfrauenstraße 5, 44803 Bochum, Deutschland"
   important: true
 - date: "26.09.2026"
-  time: "16:00"
+  time: "16:15"
   weekday: Samstag
   notes: "Anspielprobe Paulus, Bochum"
   important: true
@@ -42,7 +20,7 @@
   notes: "Konzert Paulus, Liebfrauenkirche, Liebfrauenstraße 5, 44803 Bochum, Deutschland"
   important: true
 - date: "27.09.2026"
-  time: "15:30"
+  time: "15:00"
   weekday: Sonntag
   notes: "Anspielprobe Paulus, Johanniskirche, Johanniskirchpl. 10, 58095 Hagen, Deutschland"
   important: true
